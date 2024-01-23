@@ -1,14 +1,14 @@
-# YEŞİLÇAM Sinema Bilgi Sistemi
+# YEŞİLÇAM Sinema Bilgi Sistemi 🎥
 
 Bu proje, YEŞİLÇAM sinema dünyasındaki filmler, oyuncular ve yönetmenler arasındaki ilişki bilgilerini takip etmek amacıyla geliştirilmiş bir Windows masaüstü uygulamasıdır.
 
-## Teknolojiler ve Araçlar
+## Teknolojiler ve Araçlar 🧑‍💻
 
 - C# Programlama Dili
 - PostgreSQL Veritabanı
 - Visual Studio Code IDE
 
-## Proje Gereksinimleri
+## Proje Gereksinimleri 🌫️
 
 Uygulama, aşağıdaki temel gereksinimleri karşılamaktadır:
 
@@ -20,7 +20,7 @@ Uygulama, aşağıdaki temel gereksinimleri karşılamaktadır:
 
 ## Filmler, Oyuncular, Yönetmenler ve Kategoriler ile ilgili tüm CRUD işlemleri CRUD Operations dosyasının içerisinde gerçekleşmektedir.
 
-## Nasıl Başlanır
+## Nasıl Başlanır ❓
 
 1. Projeyi bilgisayarınıza klonlayın: 
    ```bash
